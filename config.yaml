@@ -31,7 +31,7 @@ params:
   location:
     - "Melbourne, Australia"
     - "New York, USA"
-    - "Dubai, UAE"
+  #  - "Dubai, UAE"
 
   contact:
     - "info@bespokelink.com"
